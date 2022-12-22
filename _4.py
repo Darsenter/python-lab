@@ -27,4 +27,7 @@ print(q)
 
 def key(c, k):
     print(c.get(k))
-
+    
+#задание5
+from figures import t_area
+t_area()
